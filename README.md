@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="200">
   <br>
-  Spotify Website
+  Spotify Home
 </h1>
 <p align="center">
   <em>Bem-vindo ao projeto de criação do site do Spotify!</em>
